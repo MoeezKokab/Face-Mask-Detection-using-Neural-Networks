@@ -1,9 +1,11 @@
+
+<img src="https://media2.giphy.com/media/W5vEJOltBqGNYbxUei/200w.gif?cid=82a1493b8fqwkc6cjxuok60g3zgrrsdbmuaaiwbvpbyj8f4v&rid=200w.gif&ct=g" alt="Italian Trulli"><br>
 # Face-Mask-Detection-using-Neural-Networks
-i try 4 diiferent model to find best Accuracy
+I try 4 diiferent model to find best Accuracy
 
 language => python <br>
 dataset => https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset <br>
-Need to install  => Numpy (np) , Matplotlib (plt) , Tesnsorflow(tf) , Tkinter (tk) , pathlib  , keras , layers , Sequential , filedialog
+Need to install  => Numpy (np) , Matplotlib (plt) , Tesnsorflow(tf) , Tkinter (tk) ,  keras ( K ) 
 ## Result
 Architecture	Accuracy
 1.	CNN	99%
